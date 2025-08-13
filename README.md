@@ -1,2 +1,2 @@
 # lab-agile-planning
-Its project created for training purpose
+Project created for training purpose
